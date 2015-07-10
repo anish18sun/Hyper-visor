@@ -1,0 +1,8 @@
+-----------------------------SPACE INVADERS--------------------------------
+DESCRIPTION : This project contains a simple space environment game written in C++ and uses the Qt library.
+
+OBJECTIVE: The objective of the game is to hit and destroy all the enemies that appear on the screen without being hit by the enemy ships. Initially the main player ship launches from a launch pad after the doors of the game open into the main game scene. Once the main player ship is hit by any of the enemy ships the 'game over' message is displayed.
+
+CONTROLS : The main player ship can be controlled and hovered in space using mouse movements or the arrow keys. For firing use the left mouse button or the space bar. Bullets can be fired in continuation by holding the space bar or the left mouse button while hovering the space ship in space.
+
+DESIGN : The main game widget is created using QWidget, the main widget class provided by Qt and all other active elements of the game such as enemy ships and bullets are created using QWidget whose parenthood is assigned to the main game widget. All passive visual elements of the game are created using QLabel and then the animation is implemented. Separate collision modules are written to detect collision between the active elements and consequently trigger explosions and sounds.

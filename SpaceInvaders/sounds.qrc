@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Game_Sounds/explode5.wav</file>
+        <file>Game_Sounds/launch_seq.wav</file>
+        <file>Game_Sounds/mac10.wav</file>
+        <file>Game_Sounds/mortarhit.wav</file>
+        <file>Game_Sounds/Space_Invaders.wav</file>
+        <file>Game_Sounds/thedocks_day1.wav</file>
+    </qresource>
+</RCC>

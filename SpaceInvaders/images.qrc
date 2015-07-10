@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Game_Pictures/asteroid1.png</file>
+        <file>Game_Pictures/asteroid2.png</file>
+        <file>Game_Pictures/blast1.gif</file>
+        <file>Game_Pictures/bullets.png</file>
+        <file>Game_Pictures/enemy1.png</file>
+        <file>Game_Pictures/enemy2.1.png</file>
+        <file>Game_Pictures/enemy2.2.png</file>
+        <file>Game_Pictures/explosion1.gif</file>
+        <file>Game_Pictures/game_over.png</file>
+        <file>Game_Pictures/jupiter.png</file>
+        <file>Game_Pictures/launchPad1.png</file>
+        <file>Game_Pictures/leftFrame1.png</file>
+        <file>Game_Pictures/mainship.png</file>
+        <file>Game_Pictures/Mars.png</file>
+        <file>Game_Pictures/rightFrame1.png</file>
+        <file>Game_Pictures/spaceDoorLeft1.png</file>
+        <file>Game_Pictures/spaceDoorRight1.png</file>
+        <file>Game_Pictures/spaceObject1.gif</file>
+        <file>Game_Pictures/spaceObject2.gif</file>
+        <file>Game_Pictures/starsglow1.gif</file>
+    </qresource>
+</RCC>
